@@ -1,0 +1,4 @@
+baseURL = 'https://stevesansford.com/'
+languageCode = 'en-us'
+title = 'Welcome to My Blog'
+theme = 'ananke'
